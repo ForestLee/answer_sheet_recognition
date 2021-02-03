@@ -1,4 +1,4 @@
 # answer_sheet_recognition
 基于openCV+python的答题卡识别
 
-![Alt text](test6.jpg)
+![原始图片2](test6.jpg)
